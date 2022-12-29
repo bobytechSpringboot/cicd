@@ -2,4 +2,5 @@
 [release notes](releaseNotes.md)
 
 # Tools
-[git](git.md)
+* [git](git.md)
+* [gitHub](github.md)
