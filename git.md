@@ -19,3 +19,18 @@ git remote add origin https://github.com/bobytechSpringboot/cicd.git
 git branch -M main
 git push -u origin main
 </pre>
+
+# How to change user name and email
+## Setting Global Git Username and Email
+<pre>
+git config --global user.name "Your Name"
+git config --global user.email "youremail@yourdomain.com"
+</pre>
+it is in file ~/.gitconfig
+
+## setting Username and email For a Single Repository
+<pre>
+git config user.name "Your Name"
+git config user.email "youremail@yourdomain.com"
+</pre>
+It is in file .git/config
